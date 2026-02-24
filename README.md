@@ -8,10 +8,27 @@
   <tr>
     <td valign="top" width="62%">
 
+### 🙋‍♂️ Aʙᴏᴜᴛ Mᴇ
+
+I am a 3rd-year **Computer Engineering** student with a deep passion for **Artificial Intelligence** and **Machine Learning**. My core focus is transforming raw, complex data into intelligent, predictive systems and building end-to-end AI solutions.
+
+- 🧠 **My Focus:** Architecting robust ML models, handling complex data imbalances (SMOTE), and deploying predictive algorithms like XGBoost and Isolation Forest.
+- 💼 **Experience:** Building AI-driven anomaly detection systems, benchmarking machine learning models, and developing custom Python data pipelines.
+- 🌱 **Currently exploring:** Advanced Deep Learning architectures and Computer Vision techniques.
+- 💬 **Ask me about:** Machine Learning pipelines, Data Science (Pandas/NumPy), LLM integration, and Python.
+- 📫 **Reach me at:** **cuneytsahin.17.17@gmail.com**
+
+    </td>
+    <td valign="top" align="center" width="38%">
+      <img src="./images/aboutme.gif" width="95%">
+    </td>
+  </tr>
+</table>
+
 <!--Profile Count Badge-->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cuneyt-Sahin&label=Profile%20Views&color=0072ff&style=for-the-badge&logo=github" alt="Cüneyt Şahin - Profile Views" />
 </p>
 
 ---
