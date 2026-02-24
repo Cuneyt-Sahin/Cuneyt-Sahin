@@ -1,106 +1,106 @@
-<!--Banner-->
+  <!--Banner-->
 
-![Banner Image](./images/banner1.png)
+  ![Banner Image](./images/banner1.png)
 
-<!--About Me-->
+  <!--About Me-->
 
-<table>
-  <tr>
-    <td valign="top" width="62%">
+  <table>
+    <tr>
+      <td valign="top" width="62%">
 
-### 🙋‍♂️ Aʙᴏᴜᴛ Mᴇ
+  ### 🙋‍♂️ Aʙᴏᴜᴛ Mᴇ
 
-I am a 3rd-year **Computer Engineering** student with a deep passion for **Artificial Intelligence** and **Machine Learning**. My core focus is transforming raw, complex data into intelligent, predictive systems and building end-to-end AI solutions.
+  I am a 3rd-year **Computer Engineering** student with a deep passion for **Artificial Intelligence** and **Machine Learning**. My core focus is transforming raw, complex data into intelligent, predictive systems and building end-to-end AI solutions.
 
-- 🧠 **My Focus:** Architecting robust ML models, handling complex data imbalances (SMOTE), and deploying predictive algorithms like XGBoost and Isolation Forest.
-- 💼 **Experience:** Building AI-driven anomaly detection systems, benchmarking machine learning models, and developing custom Python data pipelines.
-- 🌱 **Currently exploring:** Advanced Deep Learning architectures and Computer Vision techniques.
-- 💬 **Ask me about:** Machine Learning pipelines, Data Science (Pandas/NumPy), LLM integration, and Python.
-- 📫 **Reach me at:** **cuneytsahin.17.17@gmail.com**
+  - 🧠 **My Focus:** Architecting robust ML models, handling complex data imbalances (SMOTE), and deploying predictive algorithms like XGBoost and Isolation Forest.
+  - 💼 **Experience:** Building AI-driven anomaly detection systems, benchmarking machine learning models, and developing custom Python data pipelines.
+  - 🌱 **Currently exploring:** Advanced Deep Learning architectures and Computer Vision techniques.
+  - 💬 **Ask me about:** Machine Learning pipelines, Data Science (Pandas/NumPy), LLM integration, and Python.
+  - 📫 **Reach me at:** **cuneytsahin.17.17@gmail.com**
 
-    </td>
-    <td valign="top" align="center" width="38%">
-      <img src="./images/aboutme.gif" width="95%">
-    </td>
-  </tr>
-</table>
+      </td>
+      <td valign="top" align="center" width="38%">
+        <img src="./images/aboutme.gif" width="95%">
+      </td>
+    </tr>
+  </table>
 
-<!--Profile Count Badge-->
+  <!--Profile Count Badge-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cuneyt-Sahin&label=Profile%20Views&color=0072ff&style=for-the-badge&logo=github" alt="Cüneyt Şahin - Profile Views" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Cuneyt-Sahin&label=Profile%20Views&color=0072ff&style=for-the-badge&logo=github" alt="Cüneyt Şahin - Profile Views" />
+  </p>
 
----
+  ---
 
-<!--Languages and Tools Section-->
+  <!--Languages and Tools Section-->
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+  <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+  <br />
 
-### ⚡ Current Learning
+  ### ⚡ Current Learning
 
-- 🧠 Deepening my knowledge in **Machine Learning and AI**, specifically focusing on predictive modeling and local LLM integrations.
-- 🖥️ Exploring advanced **QML & Python** patterns for building seamless, cross-platform desktop applications.
-- ⚙️ Improving my skills in **Data Science** and **Web Automation** using tools like Pandas, Scikit-learn, and Playwright.
+  - 🧠 Deepening my knowledge in **Machine Learning and AI**, specifically focusing on predictive modeling and local LLM integrations.
+  - 🖥️ Exploring advanced **QML & Python** patterns for building seamless, cross-platform desktop applications.
+  - ⚙️ Improving my skills in **Data Science** and **Web Automation** using tools like Pandas, Scikit-learn, and Playwright.
 
-<!--Contribution Graph-->
+  <!--Contribution Graph-->
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cuneyt-Sahin&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Cüneyt's Activity Graph" width="100%" />
-</div>
+  <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cuneyt-Sahin&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Cüneyt's Activity Graph" width="100%" />
+  </div>
 
----
+  ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
+  <!--Dynamic Quote card updates everyday at 12 PM-->
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+  <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
+  <!--STARTS_HERE_QUOTE_CARD-->
 
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Each%20problem%20has%20a%20positive%20side.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
+  <p align="center">
+      <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Each%20problem%20has%20a%20positive%20side.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  </p>
+  <!--ENDS_HERE_QUOTE_CARD-->
 
-<!--Contact Section-->
+  <!--Contact Section-->
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+  <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+  <div align="center">
 
-<a href="mailto:cuneytsahin.17.17@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="cuneytsahin.17.17@gmail.com" style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:cuneytsahin.17.17@gmail.com" target="_blank">
+  <img src="./gmail.png" width=50 height=50 alt="cuneytsahin.17.17@gmail.com" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://www.instagram.com/cuneyts_17" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="cuneyts_17" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://www.instagram.com/cuneyts_17" target="_blank">
+  <img src="./instagram.png" width=50 height=50 alt="cuneyts_17" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://www.github.com/Cuneyt-Sahin" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Cuneyt-Sahin" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://www.github.com/Cuneyt-Sahin" target="_blank">
+  <img src="./github.png" width=50 height=50 alt="Cuneyt-Sahin" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://www.linkedin.com/in/cuneyt-sahin" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://www.linkedin.com/in/cuneyt-sahin" target="_blank">
+  <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
 
-</div>
-<br/>
+  </div>
+  <br/>
 
-<!--Buy me a coffee-->
+  <!--Buy me a coffee-->
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
+  <div align="center">
+  <a href="https://www.buymeacoffee.com/cuneytsahin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+  </div>
 
-<!--Footer-->
+  <!--Footer-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  </p>
