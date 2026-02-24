@@ -1,32 +1,23 @@
 <!--Banner-->
+
 ![Banner Image](./images/banner1.png)
 
 <!--About Me-->
-<div>
-  <img align="right" width="38%" src="./images/aboutme.gif">
-</div>
 
-### 🙋‍♂️ Aʙᴏᴜᴛ Mᴇ
-
-I am a 3rd-year **Computer Engineering** student with a deep passion for **Artificial Intelligence** and **Machine Learning**. My core focus is transforming raw, complex data into intelligent, predictive systems and building end-to-end AI solutions.
-
-- 🧠 **My Focus:** Architecting robust ML models, handling complex data imbalances (SMOTE), and deploying predictive algorithms like XGBoost and Isolation Forest.
-- 🔭 **Currently working on:** **LearningCoachApp**, an educational platform driven by local **LLMs** to provide privacy-first AI assistance.
-- 💼 **Experience:** Building AI-driven anomaly detection systems, benchmarking machine learning models, and developing custom Python data pipelines.
-- 🌱 **Currently exploring:** Advanced Deep Learning architectures and Computer Vision techniques.
-- 💬 **Ask me about:** Machine Learning pipelines, Data Science (Pandas/NumPy), LLM integration, and Python.
-- 📫 **Reach me at:** **cuneytsahin.17.17@gmail.com**
-<br clear="right"/>
+<table>
+  <tr>
+    <td valign="top" width="62%">
 
 <!--Profile Count Badge-->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
 
+<!--Languages and Tools Section-->
 
-<!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -41,84 +32,9 @@ I am a 3rd-year **Computer Engineering** student with a deep passion for **Artif
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
 
 <!--Contribution Graph-->
+
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
@@ -126,132 +42,22 @@ I am a 3rd-year **Computer Engineering** student with a deep passion for **Artif
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
+<!--Dynamic Quote card updates everyday at 12 PM-->
+
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
+
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Each%20problem%20has%20a%20positive%20side.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Contact Section--> 
+<!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
+
 <a href="mailto:kirannaragund197@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
 </a>
@@ -279,13 +85,13 @@ I am a 3rd-year **Computer Engineering** student with a deep passion for **Artif
 <br/>
 
 <!--Buy me a coffee-->
+
 <div align="center">
 <a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
+<!--Footer-->
 
-<!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
