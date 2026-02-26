@@ -20,14 +20,15 @@
 
       </td>
       <td valign="top" align="center" width="38%">
-        <img src="./images/aboutme.gif" width="95%">
+        <img src="./images/aboutme.gif" width="95%"><br/>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=pie&theme=algolia" alt="Top Languages" width="95%">
+        </a>
       </td>
     </tr>
   </table>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=compact&langs_count=10&theme=algolia" alt="Top Languages" />
-</p>
+
 
   <!--Profile Count Badge-->
 
