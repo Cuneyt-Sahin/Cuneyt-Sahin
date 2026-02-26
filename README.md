@@ -25,6 +25,10 @@
     </tr>
   </table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
   <!--Profile Count Badge-->
 
   <p align="center">
