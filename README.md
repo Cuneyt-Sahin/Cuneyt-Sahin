@@ -26,7 +26,7 @@
   </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=compact&langs_count=10&theme=algolia" alt="Top Languages" />
 </p>
 
   <!--Profile Count Badge-->
