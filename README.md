@@ -22,7 +22,7 @@
       <td valign="top" align="center" width="38%">
         <img src="./images/aboutme.gif" width="95%"><br/>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=pie&theme=algolia" alt="Top Languages" width="95%">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" width="95%">
         </a>
       </td>
     </tr>
@@ -55,8 +55,7 @@
   - ⚙️ Improving my skills in **Data Science** and **Web Automation** using tools like Pandas, Scikit-learn, and Playwright.
 
   <!--Contribution Graph-->
-
-  <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+  
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cuneyt-Sahin&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Cüneyt's Activity Graph" width="100%" />
   </div>
