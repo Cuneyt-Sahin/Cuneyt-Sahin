@@ -21,7 +21,7 @@
       </td>
       <td valign="top" align="center" width="38%">
         <img src="./images/aboutme.gif" width="95%"><br/>
-        <img src="https://github-readme-stats-six-blush-39.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=pie&theme=dracula&hide_border=true&langs_count=6&v=6" alt="Top Languages" width="100%">
+        <img src="https://github-readme-stats-six-blush-39.vercel.app/api/top-langs/?username=Cuneyt-Sahin&layout=pie&theme=dracula&hide_border=true&langs_count=6&v=6" alt="Top Languages" width="90%">
       </td>
     </tr>
   </table>
