@@ -36,6 +36,18 @@
 
   ---
 
+  <!--Featured Projects-->
+
+  <h3 align="left">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h3>
+
+  | 🏆 Project Name | 📝 Description | 🛠️ Technologies | 🔗 Links |
+  | :--- | :--- | :--- | :--- |
+  | **[🕵️‍♂️ Fraud Detection Benchmark](https://github.com/Cuneyt-Sahin/fraud-detection-benchmark)** | An end-to-end machine learning pipeline featuring a custom user interface, designed to detect fraudulent transactions and anomalies in banking data. | `Python` `Machine Learning` `UI Design` | [▶️ Live Demo](https://fraud-detection-benchmark-cs.streamlit.app) <br><br> [💻 Source Code](https://github.com/Cuneyt-Sahin/fraud-detection-benchmark) |
+  | **[🎙️ Speaker Identification System](https://github.com/Cuneyt-Sahin/GUI-Based-Audio-Analysis-and-Speaker-Identification-System-)** | A GUI-based application utilizing AI to analyze audio signals, extract features, and accurately recognize specific speakers. | `Python` `AI / ML` `Audio Processing` `GUI` | [▶️ Live Demo](https://gui-based-audio-analysis-and-speaker-identification-system-cs.streamlit.app) <br><br> [💻 Source Code](https://github.com/Cuneyt-Sahin/GUI-Based-Audio-Analysis-and-Speaker-Identification-System-) |
+  | **[⚙️ Early Fault Detection System](https://github.com/Cuneyt-Sahin/Early-Fault-Detection-System-with-Audio-Alerts)** | An IoT-based predictive maintenance system that analyzes simulated bearing data via MQTT to detect early hardware failures and trigger real-time audio alerts. | `Python` `IoT` `MQTT` `Predictive Maintenance` | [▶️ Live Demo](https://early-fault-detection-system-with-audio-alerts-cs.streamlit.app) <br><br> [💻 Source Code](https://github.com/Cuneyt-Sahin/Early-Fault-Detection-System-with-Audio-Alerts) |
+
+  ---
+
   <!--Languages and Tools Section-->
 
   <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
